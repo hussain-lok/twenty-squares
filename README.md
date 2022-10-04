@@ -1,5 +1,10 @@
 The Game of Twenty Squares
 ---------------------------
+LANGUAGE: JAVA
+
+
+
+
 Rules:
 1. Roll the "dice"
 2. You can move one of your pieces
